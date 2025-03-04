@@ -42,12 +42,12 @@ pip install catkin_pkg
 ### 3.1 Clone the GitHub Repository
 ```
 cd ~
-git clone https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME.git
+git clone https://github.com/OzanGaziYucel/Group862_MiniProject.git
 ```
 ### 3.2 Build the ROS2 Workspace<br>
 Navigate to the project folder:
 ```
-cd YOUR_REPO_NAME
+cd group862_mini_project
 ```
 Build the ROS2 package:
 ```
